@@ -816,9 +816,9 @@ checksum = "a2c754d6c33795a1c324727428e5a7dedb5b06195f9890bdbcba760d3e246563"
 
 [[package]]
 name = "wasdk"
-version = "0.7.1"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "43b23ef698f0454ccec10b8aa5d92b6163610c69d84df6817be82a0dfa66b9bd"
+checksum = "b90221b5cf84279c735bb50677f3ec205de01d7468286ba4b6800fd95ecc9831"
 dependencies = [
  "inventory",
  "wasdk-macros",
@@ -827,9 +827,9 @@ dependencies = [
 
 [[package]]
 name = "wasdk-macros"
-version = "0.7.1"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1d352144d5c1d8837254d1ccea5e0a7f6fccd7c8157229ab3dacc5d823a64c50"
+checksum = "ab97d3b1d17c1701145692dfc61681a51ebd1c2b1a1ff9169b723772cee32fb7"
 dependencies = [
  "proc-macro2",
  "quote",
